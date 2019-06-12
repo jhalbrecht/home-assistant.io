@@ -145,3 +145,6 @@ A simple way to test if you have set up your `camera` platform correctly, is to 
   "entity_id": "camera.living_room_camera"
 }
 ```
+
+### See Also
+[Generic MJPEG IP Camera](https://www.home-assistant.io/components/mjpeg/)
